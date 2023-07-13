@@ -1,6 +1,6 @@
 # autoprompt
 
-Copilot like completion for generating more effective prompts essentially for free. The real power is a nice suggestion system for prompts that are new and creative to help the user prompt the best.
+Copilot like completion for generating more effective prompts. The real power is a nice suggestion system for prompts that are new and creative to help the user prompt the best.
 
 This process an be applied iteratively and actively.
 
