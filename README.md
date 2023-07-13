@@ -67,3 +67,8 @@ completion = vectordb_autoprompt("Explain FFT", vectordb, prompt_history)
 Note you must pass in the embed_model that you used to embed the prompt_history into the `vectordb_autoprompt`.
 
 Check out [`advanced.ipynb`](advanced.ipynb) for a clear example with real data.
+
+Based on the history of prompts, you can create some funny and very creative stuff.
+For example taking a subset of the [`nomic datalake`](https://github.com/nomic-ai/gpt4all-datalake) for literary related prompts
+
+you can get stuff like
