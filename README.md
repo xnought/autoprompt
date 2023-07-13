@@ -71,4 +71,7 @@ Check out [`advanced.ipynb`](advanced.ipynb) for a clear example with real data.
 Based on the history of prompts, you can create some funny and very creative stuff.
 For example taking a subset of the [`nomic datalake`](https://github.com/nomic-ai/gpt4all-datalake) for literary related prompts
 
-you can get stuff like
+you can get new creative prompt completions like
+![Screenshot 2023-07-13 at 4 46 51 PM](https://github.com/xnought/autoprompt/assets/65095341/c6f009fd-933e-472e-a99c-482a4e13d32a)
+
+(in [`advanced.ipynb`](advanced.ipynb))
