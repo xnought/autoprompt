@@ -1,6 +1,8 @@
 # autoprompt
 
-Copilot like completion for generating more effective prompts essentially for free.
+Copilot like completion for generating more effective prompts essentially for free. The real power is a nice suggestion system for prompts that are new and creative to help the user prompt the best.
+
+This process an be applied iteratively and actively.
 
 For now uses the OpenAI API (so you need an API key), but could easily replace with your own model (more on this later).
 
