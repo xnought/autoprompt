@@ -10,6 +10,8 @@ You create a `.env` in the same directory you run the python with the first line
 
 Can leverage a vector database of historical prompts to get inspiration and help you become more creative. Prompting on steroids.
 
+ps if you check the actual prompts I used to engineer this you will be horrified.
+
 ## Simple Usage
 
 For example if your prompt was `Explain FFT` and in the past you've had good responses to
